@@ -2,7 +2,7 @@ aiohttp
 aiosignal
 altair
 annotated-types
-anthropic
+
 anyio
 arxiv
 async-timeout
